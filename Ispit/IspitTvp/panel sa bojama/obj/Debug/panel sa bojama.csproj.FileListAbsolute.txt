@@ -1,0 +1,10 @@
+C:\Users\Valentina\Source\Repos\IspitTvp\panel sa bojama\bin\Debug\panel sa bojama.exe.config
+C:\Users\Valentina\Source\Repos\IspitTvp\panel sa bojama\bin\Debug\panel sa bojama.exe
+C:\Users\Valentina\Source\Repos\IspitTvp\panel sa bojama\bin\Debug\panel sa bojama.pdb
+C:\Users\Valentina\Source\Repos\IspitTvp\panel sa bojama\obj\Debug\panel_sa_bojama.Form1.resources
+C:\Users\Valentina\Source\Repos\IspitTvp\panel sa bojama\obj\Debug\panel_sa_bojama.Properties.Resources.resources
+C:\Users\Valentina\Source\Repos\IspitTvp\panel sa bojama\obj\Debug\panel sa bojama.csproj.GenerateResource.cache
+C:\Users\Valentina\Source\Repos\IspitTvp\panel sa bojama\obj\Debug\panel sa bojama.csproj.CoreCompileInputs.cache
+C:\Users\Valentina\Source\Repos\IspitTvp\panel sa bojama\obj\Debug\panel sa bojama.exe
+C:\Users\Valentina\Source\Repos\IspitTvp\panel sa bojama\obj\Debug\panel sa bojama.pdb
+C:\Users\Valentina\Source\Repos\IspitTvp\panel sa bojama\obj\Debug\panel sa bojama.csprojAssemblyReference.cache

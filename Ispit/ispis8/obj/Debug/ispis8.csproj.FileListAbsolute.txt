@@ -1,0 +1,10 @@
+C:\Users\Valentina\Source\Repos\Ispit\ispis8\bin\Debug\ispis8.exe.config
+C:\Users\Valentina\Source\Repos\Ispit\ispis8\bin\Debug\ispis8.exe
+C:\Users\Valentina\Source\Repos\Ispit\ispis8\bin\Debug\ispis8.pdb
+C:\Users\Valentina\Source\Repos\Ispit\ispis8\obj\Debug\ispis8.Form1.resources
+C:\Users\Valentina\Source\Repos\Ispit\ispis8\obj\Debug\ispis8.Properties.Resources.resources
+C:\Users\Valentina\Source\Repos\Ispit\ispis8\obj\Debug\ispis8.csproj.GenerateResource.cache
+C:\Users\Valentina\Source\Repos\Ispit\ispis8\obj\Debug\ispis8.csproj.CoreCompileInputs.cache
+C:\Users\Valentina\Source\Repos\Ispit\ispis8\obj\Debug\ispis8.exe
+C:\Users\Valentina\Source\Repos\Ispit\ispis8\obj\Debug\ispis8.pdb
+C:\Users\Valentina\Source\Repos\Ispit\ispis8\obj\Debug\ispis8.csprojAssemblyReference.cache

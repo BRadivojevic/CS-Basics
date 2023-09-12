@@ -1,0 +1,9 @@
+C:\Users\Valentina\Source\Repos\IspitTvp\dodavanje radiobtn na klik\bin\Debug\dodavanje radiobtn na klik.exe.config
+C:\Users\Valentina\Source\Repos\IspitTvp\dodavanje radiobtn na klik\bin\Debug\dodavanje radiobtn na klik.exe
+C:\Users\Valentina\Source\Repos\IspitTvp\dodavanje radiobtn na klik\bin\Debug\dodavanje radiobtn na klik.pdb
+C:\Users\Valentina\Source\Repos\IspitTvp\dodavanje radiobtn na klik\obj\Debug\dodavanje_radiobtn_na_klik.Form1.resources
+C:\Users\Valentina\Source\Repos\IspitTvp\dodavanje radiobtn na klik\obj\Debug\dodavanje_radiobtn_na_klik.Properties.Resources.resources
+C:\Users\Valentina\Source\Repos\IspitTvp\dodavanje radiobtn na klik\obj\Debug\dodavanje radiobtn na klik.csproj.GenerateResource.cache
+C:\Users\Valentina\Source\Repos\IspitTvp\dodavanje radiobtn na klik\obj\Debug\dodavanje radiobtn na klik.csproj.CoreCompileInputs.cache
+C:\Users\Valentina\Source\Repos\IspitTvp\dodavanje radiobtn na klik\obj\Debug\dodavanje radiobtn na klik.exe
+C:\Users\Valentina\Source\Repos\IspitTvp\dodavanje radiobtn na klik\obj\Debug\dodavanje radiobtn na klik.pdb

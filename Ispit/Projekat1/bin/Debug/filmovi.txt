@@ -1,0 +1,35 @@
+ID Filma: 1
+Naziv filma: godzila
+Zanr filma: akcija
+Duzina trajanja: 1h
+Starosna granica: 6godina
+
+
+ID Filma: 2
+Naziv filma: gospodar
+Zanr filma: akcij
+Duzina trajanja: 2,5h
+Starosna granica: 15+
+
+
+ID Filma: 1
+Naziv filma: godzila
+Zanr filma: akcija
+Duzina trajanja: 11
+Starosna granica: 18
+
+
+ID Filma: 4
+Naziv filma: film neki
+Zanr filma: akcija
+Duzina trajanja: 2h
+Starosna granica: 18
+
+
+ID Filma: 1
+Naziv filma: godzila
+Zanr filma: akcija
+Duzina trajanja: 2h
+Starosna granica: 100
+
+

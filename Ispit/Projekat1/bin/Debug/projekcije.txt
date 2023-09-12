@@ -1,0 +1,16 @@
+ID projekcije: 1
+Datum projekcije: 14.08.1998
+Sala: sala1
+Cena karte: 15000
+Vreme pocetka projekcije - 20:00
+Film: godzila
+
+
+ID projekcije: 2
+Datum projekcije: 24.05.
+Sala: sala3
+Cena karte: 1555
+Vreme pocetka projekcije - 21:00
+Film: gospodar
+
+

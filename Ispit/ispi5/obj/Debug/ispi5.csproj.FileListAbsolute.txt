@@ -1,0 +1,10 @@
+C:\Users\Valentina\Source\Repos\Ispit\ispi5\bin\Debug\ispi5.exe.config
+C:\Users\Valentina\Source\Repos\Ispit\ispi5\bin\Debug\ispi5.exe
+C:\Users\Valentina\Source\Repos\Ispit\ispi5\bin\Debug\ispi5.pdb
+C:\Users\Valentina\Source\Repos\Ispit\ispi5\obj\Debug\ispi5.csprojAssemblyReference.cache
+C:\Users\Valentina\Source\Repos\Ispit\ispi5\obj\Debug\ispi5.Form1.resources
+C:\Users\Valentina\Source\Repos\Ispit\ispi5\obj\Debug\ispi5.Properties.Resources.resources
+C:\Users\Valentina\Source\Repos\Ispit\ispi5\obj\Debug\ispi5.csproj.GenerateResource.cache
+C:\Users\Valentina\Source\Repos\Ispit\ispi5\obj\Debug\ispi5.csproj.CoreCompileInputs.cache
+C:\Users\Valentina\Source\Repos\Ispit\ispi5\obj\Debug\ispi5.exe
+C:\Users\Valentina\Source\Repos\Ispit\ispi5\obj\Debug\ispi5.pdb

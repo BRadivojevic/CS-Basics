@@ -1,0 +1,15 @@
+Id sale: 1
+Broj sale: sala1
+Broj sedista: 1254
+
+
+Id sale: 2
+Broj sale: sala3
+Broj sedista: 124
+
+
+Id sale: 5
+Broj sale: sala6
+Broj sedista: 200
+
+

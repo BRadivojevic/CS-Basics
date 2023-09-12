@@ -1,0 +1,9 @@
+C:\Users\Valentina\Source\Repos\IspitTvp\krug na mis poz\bin\Debug\krug na mis poz.exe.config
+C:\Users\Valentina\Source\Repos\IspitTvp\krug na mis poz\bin\Debug\krug na mis poz.exe
+C:\Users\Valentina\Source\Repos\IspitTvp\krug na mis poz\bin\Debug\krug na mis poz.pdb
+C:\Users\Valentina\Source\Repos\IspitTvp\krug na mis poz\obj\Debug\krug_na_mis_poz.Form1.resources
+C:\Users\Valentina\Source\Repos\IspitTvp\krug na mis poz\obj\Debug\krug_na_mis_poz.Properties.Resources.resources
+C:\Users\Valentina\Source\Repos\IspitTvp\krug na mis poz\obj\Debug\krug na mis poz.csproj.GenerateResource.cache
+C:\Users\Valentina\Source\Repos\IspitTvp\krug na mis poz\obj\Debug\krug na mis poz.csproj.CoreCompileInputs.cache
+C:\Users\Valentina\Source\Repos\IspitTvp\krug na mis poz\obj\Debug\krug na mis poz.exe
+C:\Users\Valentina\Source\Repos\IspitTvp\krug na mis poz\obj\Debug\krug na mis poz.pdb

@@ -1,0 +1,30 @@
+C:\Users\Valentina\Source\Repos\IspitTvp\Bojenje forme u klik\bin\Debug\Bojenje forme u klik.exe.config
+C:\Users\Valentina\Source\Repos\IspitTvp\Bojenje forme u klik\bin\Debug\Bojenje forme u klik.exe
+C:\Users\Valentina\Source\Repos\IspitTvp\Bojenje forme u klik\bin\Debug\Bojenje forme u klik.pdb
+C:\Users\Valentina\Source\Repos\IspitTvp\Bojenje forme u klik\obj\Debug\Bojenje forme u klik.csprojAssemblyReference.cache
+C:\Users\Valentina\Source\Repos\IspitTvp\Bojenje forme u klik\obj\Debug\Bojenje_forme_u_klik.Form1.resources
+C:\Users\Valentina\Source\Repos\IspitTvp\Bojenje forme u klik\obj\Debug\Bojenje_forme_u_klik.Properties.Resources.resources
+C:\Users\Valentina\Source\Repos\IspitTvp\Bojenje forme u klik\obj\Debug\Bojenje forme u klik.csproj.GenerateResource.cache
+C:\Users\Valentina\Source\Repos\IspitTvp\Bojenje forme u klik\obj\Debug\Bojenje forme u klik.csproj.CoreCompileInputs.cache
+C:\Users\Valentina\Source\Repos\IspitTvp\Bojenje forme u klik\obj\Debug\Bojenje forme u klik.exe
+C:\Users\Valentina\Source\Repos\IspitTvp\Bojenje forme u klik\obj\Debug\Bojenje forme u klik.pdb
+C:\Users\Boško\Documents\tvp\IspitTvp\Bojenje forme u klik\bin\Debug\Bojenje forme u klik.exe.config
+C:\Users\Boško\Documents\tvp\IspitTvp\Bojenje forme u klik\bin\Debug\Bojenje forme u klik.exe
+C:\Users\Boško\Documents\tvp\IspitTvp\Bojenje forme u klik\bin\Debug\Bojenje forme u klik.pdb
+C:\Users\Boško\Documents\tvp\IspitTvp\Bojenje forme u klik\obj\Debug\Bojenje forme u klik.csprojAssemblyReference.cache
+C:\Users\Boško\Documents\tvp\IspitTvp\Bojenje forme u klik\obj\Debug\Bojenje_forme_u_klik.Form1.resources
+C:\Users\Boško\Documents\tvp\IspitTvp\Bojenje forme u klik\obj\Debug\Bojenje_forme_u_klik.Properties.Resources.resources
+C:\Users\Boško\Documents\tvp\IspitTvp\Bojenje forme u klik\obj\Debug\Bojenje forme u klik.csproj.GenerateResource.cache
+C:\Users\Boško\Documents\tvp\IspitTvp\Bojenje forme u klik\obj\Debug\Bojenje forme u klik.csproj.CoreCompileInputs.cache
+C:\Users\Boško\Documents\tvp\IspitTvp\Bojenje forme u klik\obj\Debug\Bojenje forme u klik.exe
+C:\Users\Boško\Documents\tvp\IspitTvp\Bojenje forme u klik\obj\Debug\Bojenje forme u klik.pdb
+E:\skola\tvp\Ispit\IspitTvp\Bojenje forme u klik\bin\Debug\Bojenje forme u klik.exe.config
+E:\skola\tvp\Ispit\IspitTvp\Bojenje forme u klik\bin\Debug\Bojenje forme u klik.exe
+E:\skola\tvp\Ispit\IspitTvp\Bojenje forme u klik\bin\Debug\Bojenje forme u klik.pdb
+E:\skola\tvp\Ispit\IspitTvp\Bojenje forme u klik\obj\Debug\Bojenje forme u klik.csproj.AssemblyReference.cache
+E:\skola\tvp\Ispit\IspitTvp\Bojenje forme u klik\obj\Debug\Bojenje_forme_u_klik.Form1.resources
+E:\skola\tvp\Ispit\IspitTvp\Bojenje forme u klik\obj\Debug\Bojenje_forme_u_klik.Properties.Resources.resources
+E:\skola\tvp\Ispit\IspitTvp\Bojenje forme u klik\obj\Debug\Bojenje forme u klik.csproj.GenerateResource.cache
+E:\skola\tvp\Ispit\IspitTvp\Bojenje forme u klik\obj\Debug\Bojenje forme u klik.csproj.CoreCompileInputs.cache
+E:\skola\tvp\Ispit\IspitTvp\Bojenje forme u klik\obj\Debug\Bojenje forme u klik.exe
+E:\skola\tvp\Ispit\IspitTvp\Bojenje forme u klik\obj\Debug\Bojenje forme u klik.pdb

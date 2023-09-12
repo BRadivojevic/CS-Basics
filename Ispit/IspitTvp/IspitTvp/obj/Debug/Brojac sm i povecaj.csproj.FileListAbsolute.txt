@@ -1,0 +1,20 @@
+C:\Users\Boško\Documents\tvp\IspitTvp\IspitTvp\bin\Debug\IspitTvp.exe.config
+C:\Users\Boško\Documents\tvp\IspitTvp\IspitTvp\bin\Debug\IspitTvp.exe
+C:\Users\Boško\Documents\tvp\IspitTvp\IspitTvp\bin\Debug\IspitTvp.pdb
+C:\Users\Boško\Documents\tvp\IspitTvp\IspitTvp\obj\Debug\Brojac sm i povecaj.csprojAssemblyReference.cache
+C:\Users\Boško\Documents\tvp\IspitTvp\IspitTvp\obj\Debug\IspitTvp.Form1.resources
+C:\Users\Boško\Documents\tvp\IspitTvp\IspitTvp\obj\Debug\IspitTvp.Properties.Resources.resources
+C:\Users\Boško\Documents\tvp\IspitTvp\IspitTvp\obj\Debug\Brojac sm i povecaj.csproj.GenerateResource.cache
+C:\Users\Boško\Documents\tvp\IspitTvp\IspitTvp\obj\Debug\Brojac sm i povecaj.csproj.CoreCompileInputs.cache
+C:\Users\Boško\Documents\tvp\IspitTvp\IspitTvp\obj\Debug\IspitTvp.exe
+C:\Users\Boško\Documents\tvp\IspitTvp\IspitTvp\obj\Debug\IspitTvp.pdb
+E:\skola\tvp\Ispit\IspitTvp\IspitTvp\bin\Debug\IspitTvp.exe.config
+E:\skola\tvp\Ispit\IspitTvp\IspitTvp\bin\Debug\IspitTvp.exe
+E:\skola\tvp\Ispit\IspitTvp\IspitTvp\bin\Debug\IspitTvp.pdb
+E:\skola\tvp\Ispit\IspitTvp\IspitTvp\obj\Debug\Brojac sm i povecaj.csproj.AssemblyReference.cache
+E:\skola\tvp\Ispit\IspitTvp\IspitTvp\obj\Debug\IspitTvp.Form1.resources
+E:\skola\tvp\Ispit\IspitTvp\IspitTvp\obj\Debug\IspitTvp.Properties.Resources.resources
+E:\skola\tvp\Ispit\IspitTvp\IspitTvp\obj\Debug\Brojac sm i povecaj.csproj.GenerateResource.cache
+E:\skola\tvp\Ispit\IspitTvp\IspitTvp\obj\Debug\Brojac sm i povecaj.csproj.CoreCompileInputs.cache
+E:\skola\tvp\Ispit\IspitTvp\IspitTvp\obj\Debug\IspitTvp.exe
+E:\skola\tvp\Ispit\IspitTvp\IspitTvp\obj\Debug\IspitTvp.pdb

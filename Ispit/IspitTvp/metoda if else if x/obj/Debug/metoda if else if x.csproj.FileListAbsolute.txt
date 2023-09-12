@@ -1,0 +1,8 @@
+C:\Users\Valentina\Source\Repos\IspitTvp\metoda if else if x\bin\Debug\metoda if else if x.exe.config
+C:\Users\Valentina\Source\Repos\IspitTvp\metoda if else if x\bin\Debug\metoda if else if x.exe
+C:\Users\Valentina\Source\Repos\IspitTvp\metoda if else if x\obj\Debug\metoda_if_else_if_x.Form1.resources
+C:\Users\Valentina\Source\Repos\IspitTvp\metoda if else if x\obj\Debug\metoda_if_else_if_x.Properties.Resources.resources
+C:\Users\Valentina\Source\Repos\IspitTvp\metoda if else if x\obj\Debug\metoda if else if x.csproj.GenerateResource.cache
+C:\Users\Valentina\Source\Repos\IspitTvp\metoda if else if x\obj\Debug\metoda if else if x.csproj.CoreCompileInputs.cache
+C:\Users\Valentina\Source\Repos\IspitTvp\metoda if else if x\obj\Debug\metoda if else if x.exe
+C:\Users\Valentina\Source\Repos\IspitTvp\metoda if else if x\obj\Debug\metoda if else if x.pdb

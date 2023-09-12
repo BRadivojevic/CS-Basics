@@ -1,0 +1,17 @@
+C:\Users\Valentina\Source\Repos\IspitTvp\hover za dugme\bin\Debug\hover za dugme.exe.config
+C:\Users\Valentina\Source\Repos\IspitTvp\hover za dugme\bin\Debug\hover za dugme.exe
+C:\Users\Valentina\Source\Repos\IspitTvp\hover za dugme\bin\Debug\hover za dugme.pdb
+C:\Users\Valentina\Source\Repos\IspitTvp\hover za dugme\obj\Debug\hover_za_dugme.Form1.resources
+C:\Users\Valentina\Source\Repos\IspitTvp\hover za dugme\obj\Debug\hover_za_dugme.Properties.Resources.resources
+C:\Users\Valentina\Source\Repos\IspitTvp\hover za dugme\obj\Debug\hover za dugme.csproj.GenerateResource.cache
+C:\Users\Valentina\Source\Repos\IspitTvp\hover za dugme\obj\Debug\hover za dugme.csproj.CoreCompileInputs.cache
+C:\Users\Valentina\Source\Repos\IspitTvp\hover za dugme\obj\Debug\hover za dugme.exe
+C:\Users\Valentina\Source\Repos\IspitTvp\hover za dugme\obj\Debug\hover za dugme.pdb
+C:\Users\Valentina\Source\Repos\IspitTvp\hover za dugme\obj\Debug\hover za dugme.csprojAssemblyReference.cache
+E:\skola\tvp\Ispit\IspitTvp\hover za dugme\obj\Debug\hover za dugme.csproj.AssemblyReference.cache
+E:\skola\tvp\Ispit\IspitTvp\hover za dugme\obj\Debug\hover_za_dugme.Form1.resources
+E:\skola\tvp\Ispit\IspitTvp\hover za dugme\obj\Debug\hover_za_dugme.Properties.Resources.resources
+E:\skola\tvp\Ispit\IspitTvp\hover za dugme\obj\Debug\hover za dugme.csproj.GenerateResource.cache
+E:\skola\tvp\Ispit\IspitTvp\hover za dugme\obj\Debug\hover za dugme.csproj.CoreCompileInputs.cache
+E:\skola\tvp\Ispit\IspitTvp\hover za dugme\obj\Debug\hover za dugme.exe
+E:\skola\tvp\Ispit\IspitTvp\hover za dugme\obj\Debug\hover za dugme.pdb

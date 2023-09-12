@@ -1,0 +1,8 @@
+C:\Users\Valentina\Source\Repos\Ispit\sitina\bin\Debug\sitina.exe.config
+C:\Users\Valentina\Source\Repos\Ispit\sitina\bin\Debug\sitina.exe
+C:\Users\Valentina\Source\Repos\Ispit\sitina\obj\Debug\sitina.Form1.resources
+C:\Users\Valentina\Source\Repos\Ispit\sitina\obj\Debug\sitina.Properties.Resources.resources
+C:\Users\Valentina\Source\Repos\Ispit\sitina\obj\Debug\sitina.csproj.GenerateResource.cache
+C:\Users\Valentina\Source\Repos\Ispit\sitina\obj\Debug\sitina.csproj.CoreCompileInputs.cache
+C:\Users\Valentina\Source\Repos\Ispit\sitina\obj\Debug\sitina.exe
+C:\Users\Valentina\Source\Repos\Ispit\sitina\obj\Debug\sitina.pdb

@@ -1,0 +1,20 @@
+C:\Users\Valentina\Source\Repos\IspitTvp\Citanje txt i praznine\bin\Debug\Citanje txt i praznine.exe.config
+C:\Users\Valentina\Source\Repos\IspitTvp\Citanje txt i praznine\bin\Debug\Citanje txt i praznine.exe
+C:\Users\Valentina\Source\Repos\IspitTvp\Citanje txt i praznine\bin\Debug\Citanje txt i praznine.pdb
+C:\Users\Valentina\Source\Repos\IspitTvp\Citanje txt i praznine\obj\Debug\Citanje_txt_i_praznine.Form1.resources
+C:\Users\Valentina\Source\Repos\IspitTvp\Citanje txt i praznine\obj\Debug\Citanje_txt_i_praznine.Properties.Resources.resources
+C:\Users\Valentina\Source\Repos\IspitTvp\Citanje txt i praznine\obj\Debug\Citanje txt i praznine.csproj.GenerateResource.cache
+C:\Users\Valentina\Source\Repos\IspitTvp\Citanje txt i praznine\obj\Debug\Citanje txt i praznine.csproj.CoreCompileInputs.cache
+C:\Users\Valentina\Source\Repos\IspitTvp\Citanje txt i praznine\obj\Debug\Citanje txt i praznine.exe
+C:\Users\Valentina\Source\Repos\IspitTvp\Citanje txt i praznine\obj\Debug\Citanje txt i praznine.pdb
+C:\Users\Valentina\Source\Repos\IspitTvp\Citanje txt i praznine\obj\Debug\Citanje txt i praznine.csprojAssemblyReference.cache
+C:\Users\Boško\Documents\tvp\IspitTvp\Citanje txt i praznine\bin\Debug\Citanje txt i praznine.exe.config
+C:\Users\Boško\Documents\tvp\IspitTvp\Citanje txt i praznine\bin\Debug\Citanje txt i praznine.exe
+C:\Users\Boško\Documents\tvp\IspitTvp\Citanje txt i praznine\bin\Debug\Citanje txt i praznine.pdb
+C:\Users\Boško\Documents\tvp\IspitTvp\Citanje txt i praznine\obj\Debug\Citanje txt i praznine.csprojAssemblyReference.cache
+C:\Users\Boško\Documents\tvp\IspitTvp\Citanje txt i praznine\obj\Debug\Citanje_txt_i_praznine.Form1.resources
+C:\Users\Boško\Documents\tvp\IspitTvp\Citanje txt i praznine\obj\Debug\Citanje_txt_i_praznine.Properties.Resources.resources
+C:\Users\Boško\Documents\tvp\IspitTvp\Citanje txt i praznine\obj\Debug\Citanje txt i praznine.csproj.GenerateResource.cache
+C:\Users\Boško\Documents\tvp\IspitTvp\Citanje txt i praznine\obj\Debug\Citanje txt i praznine.csproj.CoreCompileInputs.cache
+C:\Users\Boško\Documents\tvp\IspitTvp\Citanje txt i praznine\obj\Debug\Citanje txt i praznine.exe
+C:\Users\Boško\Documents\tvp\IspitTvp\Citanje txt i praznine\obj\Debug\Citanje txt i praznine.pdb

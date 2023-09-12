@@ -1,0 +1,9 @@
+C:\Users\Valentina\Source\Repos\IspitTvp\plava labela\bin\Debug\plava labela.exe.config
+C:\Users\Valentina\Source\Repos\IspitTvp\plava labela\bin\Debug\plava labela.exe
+C:\Users\Valentina\Source\Repos\IspitTvp\plava labela\bin\Debug\plava labela.pdb
+C:\Users\Valentina\Source\Repos\IspitTvp\plava labela\obj\Debug\plava_labela.Form1.resources
+C:\Users\Valentina\Source\Repos\IspitTvp\plava labela\obj\Debug\plava_labela.Properties.Resources.resources
+C:\Users\Valentina\Source\Repos\IspitTvp\plava labela\obj\Debug\plava labela.csproj.GenerateResource.cache
+C:\Users\Valentina\Source\Repos\IspitTvp\plava labela\obj\Debug\plava labela.csproj.CoreCompileInputs.cache
+C:\Users\Valentina\Source\Repos\IspitTvp\plava labela\obj\Debug\plava labela.exe
+C:\Users\Valentina\Source\Repos\IspitTvp\plava labela\obj\Debug\plava labela.pdb

@@ -1,0 +1,10 @@
+C:\Users\Valentina\Source\Repos\Ispit\rpt\bin\Debug\rpt.exe.config
+C:\Users\Valentina\Source\Repos\Ispit\rpt\bin\Debug\rpt.exe
+C:\Users\Valentina\Source\Repos\Ispit\rpt\bin\Debug\rpt.pdb
+C:\Users\Valentina\Source\Repos\Ispit\rpt\obj\Debug\rpt.csprojAssemblyReference.cache
+C:\Users\Valentina\Source\Repos\Ispit\rpt\obj\Debug\rpt.Form1.resources
+C:\Users\Valentina\Source\Repos\Ispit\rpt\obj\Debug\rpt.Properties.Resources.resources
+C:\Users\Valentina\Source\Repos\Ispit\rpt\obj\Debug\rpt.csproj.GenerateResource.cache
+C:\Users\Valentina\Source\Repos\Ispit\rpt\obj\Debug\rpt.csproj.CoreCompileInputs.cache
+C:\Users\Valentina\Source\Repos\Ispit\rpt\obj\Debug\rpt.exe
+C:\Users\Valentina\Source\Repos\Ispit\rpt\obj\Debug\rpt.pdb

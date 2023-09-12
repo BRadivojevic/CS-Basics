@@ -1,0 +1,10 @@
+C:\Users\Valentina\Source\Repos\PapirSaWa\PapirSaWa\bin\Debug\PapirSaWa.exe.config
+C:\Users\Valentina\Source\Repos\PapirSaWa\PapirSaWa\bin\Debug\PapirSaWa.exe
+C:\Users\Valentina\Source\Repos\PapirSaWa\PapirSaWa\bin\Debug\PapirSaWa.pdb
+C:\Users\Valentina\Source\Repos\PapirSaWa\PapirSaWa\obj\Debug\PapirSaWa.csprojAssemblyReference.cache
+C:\Users\Valentina\Source\Repos\PapirSaWa\PapirSaWa\obj\Debug\PapirSaWa.Form1.resources
+C:\Users\Valentina\Source\Repos\PapirSaWa\PapirSaWa\obj\Debug\PapirSaWa.Properties.Resources.resources
+C:\Users\Valentina\Source\Repos\PapirSaWa\PapirSaWa\obj\Debug\PapirSaWa.csproj.GenerateResource.cache
+C:\Users\Valentina\Source\Repos\PapirSaWa\PapirSaWa\obj\Debug\PapirSaWa.csproj.CoreCompileInputs.cache
+C:\Users\Valentina\Source\Repos\PapirSaWa\PapirSaWa\obj\Debug\PapirSaWa.exe
+C:\Users\Valentina\Source\Repos\PapirSaWa\PapirSaWa\obj\Debug\PapirSaWa.pdb

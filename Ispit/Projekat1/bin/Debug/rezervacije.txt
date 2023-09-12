@@ -1,0 +1,22 @@
+Ime korisnika: 
+Podaci o filmu: Naziv filma: godzila  11min, Cena karte: 1555, Datum i vreme: 24.05. -  21:00,  sala3, 0
+Ime korisnika: 
+Podaci o filmu:  godzila  11min,  1555, Datum i vreme: 24.05. -  21:00,  sala3, 0
+Ime korisnika: 
+Podaci o filmu:  godzila  11min,  1555, Datum i vreme: 24.05. -  21:00,  sala3, 0
+Ime korisnika: nikola
+Podaci o filmu:  godzila  11min,  1555, Datum i vreme: 24.05. -  21:00,  sala3, 0
+Ime korisnika: nikola
+Podaci o filmu:  godzila  11min,  1555, Datum i vreme: 24.05. -  21:00,  sala3, 0
+Ime korisnika: nikola
+Podaci o filmu:  godzila  11min,  1555, Datum i vreme: 24.05. -  21:00,  sala3, 0
+Ime korisnika: nikola
+Podaci o filmu:  godzila  11min,  1555, Datum i vreme: 24.05. -  21:00,  sala3, 0
+Ime korisnika: nikola
+Podaci o filmu:  godzila  11min,  1555, Datum i vreme: 24.05. -  21:00,  sala3, 0
+Ime korisnika: nikola
+Podaci o filmu:  godzila  11min,  1555, Datum i vreme: 24.05. -  21:00,  sala3, 0
+Ime korisnika: nikola
+Podaci o filmu:  godzila  11min,  1555, Datum i vreme: 24.05. -  21:00,  sala3, 0
+Ime korisnika: bosko
+Podaci o filmu:  godzila  2hmin,  1555, Datum i vreme: 24.05. -  21:00,  sala6, 0

@@ -1,0 +1,20 @@
+C:\Users\Valentina\Source\Repos\IspitTvp\dinamicko dugme\obj\Debug\dinamicko_dugme.Form1.resources
+C:\Users\Valentina\Source\Repos\IspitTvp\dinamicko dugme\obj\Debug\dinamicko_dugme.Properties.Resources.resources
+C:\Users\Valentina\Source\Repos\IspitTvp\dinamicko dugme\obj\Debug\dinamicko dugme.csproj.GenerateResource.cache
+C:\Users\Valentina\Source\Repos\IspitTvp\dinamicko dugme\obj\Debug\dinamicko dugme.csproj.CoreCompileInputs.cache
+C:\Users\Valentina\Source\Repos\IspitTvp\dinamicko dugme\bin\Debug\dinamicko dugme.exe.config
+C:\Users\Valentina\Source\Repos\IspitTvp\dinamicko dugme\bin\Debug\dinamicko dugme.exe
+C:\Users\Valentina\Source\Repos\IspitTvp\dinamicko dugme\bin\Debug\dinamicko dugme.pdb
+C:\Users\Valentina\Source\Repos\IspitTvp\dinamicko dugme\obj\Debug\dinamicko dugme.exe
+C:\Users\Valentina\Source\Repos\IspitTvp\dinamicko dugme\obj\Debug\dinamicko dugme.pdb
+C:\Users\Valentina\Source\Repos\IspitTvp\dinamicko dugme\obj\Debug\dinamicko dugme.csprojAssemblyReference.cache
+C:\Users\Boško\Documents\tvp\IspitTvp\dinamicko dugme\bin\Debug\dinamicko dugme.exe.config
+C:\Users\Boško\Documents\tvp\IspitTvp\dinamicko dugme\bin\Debug\dinamicko dugme.exe
+C:\Users\Boško\Documents\tvp\IspitTvp\dinamicko dugme\bin\Debug\dinamicko dugme.pdb
+C:\Users\Boško\Documents\tvp\IspitTvp\dinamicko dugme\obj\Debug\dinamicko dugme.csprojAssemblyReference.cache
+C:\Users\Boško\Documents\tvp\IspitTvp\dinamicko dugme\obj\Debug\dinamicko_dugme.Form1.resources
+C:\Users\Boško\Documents\tvp\IspitTvp\dinamicko dugme\obj\Debug\dinamicko_dugme.Properties.Resources.resources
+C:\Users\Boško\Documents\tvp\IspitTvp\dinamicko dugme\obj\Debug\dinamicko dugme.csproj.GenerateResource.cache
+C:\Users\Boško\Documents\tvp\IspitTvp\dinamicko dugme\obj\Debug\dinamicko dugme.csproj.CoreCompileInputs.cache
+C:\Users\Boško\Documents\tvp\IspitTvp\dinamicko dugme\obj\Debug\dinamicko dugme.exe
+C:\Users\Boško\Documents\tvp\IspitTvp\dinamicko dugme\obj\Debug\dinamicko dugme.pdb

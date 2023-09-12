@@ -1,0 +1,11 @@
+C:\Users\Valentina\Source\Repos\Ispit\ispit6\bin\Debug\ispit6.exe.config
+C:\Users\Valentina\Source\Repos\Ispit\ispit6\bin\Debug\ispit6.exe
+C:\Users\Valentina\Source\Repos\Ispit\ispit6\bin\Debug\ispit6.pdb
+C:\Users\Valentina\Source\Repos\Ispit\ispit6\obj\Debug\ispit6.csprojAssemblyReference.cache
+C:\Users\Valentina\Source\Repos\Ispit\ispit6\obj\Debug\ispit6.Form1.resources
+C:\Users\Valentina\Source\Repos\Ispit\ispit6\obj\Debug\ispit6.Form2.resources
+C:\Users\Valentina\Source\Repos\Ispit\ispit6\obj\Debug\ispit6.Properties.Resources.resources
+C:\Users\Valentina\Source\Repos\Ispit\ispit6\obj\Debug\ispit6.csproj.GenerateResource.cache
+C:\Users\Valentina\Source\Repos\Ispit\ispit6\obj\Debug\ispit6.csproj.CoreCompileInputs.cache
+C:\Users\Valentina\Source\Repos\Ispit\ispit6\obj\Debug\ispit6.exe
+C:\Users\Valentina\Source\Repos\Ispit\ispit6\obj\Debug\ispit6.pdb
